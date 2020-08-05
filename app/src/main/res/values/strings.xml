@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KT_Android</string>
+    <string name="nhapn">Nhập số n</string>
+    <string name="n">n =</string>
+    <string name="nhapN">Nhập số n</string>
+    <string name="show">Show</string>
+</resources>
